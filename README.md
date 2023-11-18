@@ -1,2 +1,0 @@
-# Poland_Inflation_Rate_Visualisation
-WIP
